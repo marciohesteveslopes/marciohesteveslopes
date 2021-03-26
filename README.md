@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marciohesteveslopes
-- 👀 I’m interested in new technologies, pair programming, games and everything that stimulates my curiosity!
+- 👀 I’m interested in new technologies, pair programming, games, beaches and everything that stimulates my curiosity!
 - 🌱 I’m currently learning ES6, Node.js, Go, React.js and Vue.js
 - 💞️ I’m looking to collaborate on app ideas.
 - 📫 How to reach me: https://www.linkedin.com/in/marciohelopes/
